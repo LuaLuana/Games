@@ -4,7 +4,7 @@
  :javaScript 
  :html5 
  :css
- ![Detona Ralph](ralph1_resized.png)
+![Detona Ralph](img/ralph1_resized.png)
 
 
  
