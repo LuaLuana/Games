@@ -1,7 +1,7 @@
 ## 2° Jogo do Desafio Da dio
 ### jogo de memória
 
-<img src="src/img/ralph1_resized.png" alt="Detona Ralph" align="right">
+<img src="src/img/wallpaper.jpg" alt="Memory Game" align="right">
 <p> Projeto de idealizado pela DIO</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
